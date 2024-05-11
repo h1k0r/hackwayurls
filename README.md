@@ -1,11 +1,11 @@
-"HackWayURLs: A Python script to fetch and analyze URLs
-associated with a target domain using the Wayback Machine archive."
+#"HackWayURLs: A Python script to fetch and analyze URLs
+#associated with a target domain using the Wayback Machine archive."
 
 
 
 
 
-feature :-
+#feature :-
 
 Wayback Machine Integration: Utilizes the Wayback Machine archive to retrieve historical snapshots of URLs associated with the target domain.
 
