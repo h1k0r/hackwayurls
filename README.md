@@ -1,10 +1,11 @@
+
   #"HackWayURLs: 
     A Python script to fetch and analyze URLs
     #associated with a target domain using the Wayback Machine archive."
 
 
 
-
+![Screenshot 2024-05-11 181007](https://github.com/h1k0r/hackwayurls/assets/130882186/0798994c-9be2-42c2-831b-9a557cde0852)
 
 #feature :-
 
